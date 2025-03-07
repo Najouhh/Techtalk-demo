@@ -6,6 +6,7 @@
         {
             Console.WriteLine("welcome to tech talk !");
             Console.WriteLine("its me again");
+            Console.WriteLine("tech talk");
         }
     }
 }
